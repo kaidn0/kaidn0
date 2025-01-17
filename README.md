@@ -1,7 +1,6 @@
 ### Greetings 👋
 
-- 🌱 I'm currently learning how to create a machine learning model
-- ⚡ Fun Fact: I'm new
+- I will
 
 <!--
 **kaidn0/kaidn0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
